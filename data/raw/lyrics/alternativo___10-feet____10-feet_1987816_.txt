@@ -1,0 +1,5 @@
+Song: Taikutsu Na Drama
+Artist: 10-FEET
+Views:  50
+Verses: 6
+['Anata wa mattobe de ashi no tsume wo kiiteru', 'Shiroi leesu no kaaten ga yureteiru', 'Taikutsu na dorama wo miteiru mitai na', 'Nanimo okinai hitotoki ga', 'Shiawase ni omoeru', '\n', 'Sou ne ano koro wa "ai" wa hageshi mono to', 'Kimete kakateta wa', 'Anata to watashi ga onaji basshou ni', 'Tada iru dake no shiawase', '\n', 'Anata to nannen sugoshita no kasae mo', 'Fuuto wasurete shimau hodo', 'Yasurakana hitotoki', '\n', 'Sou ne ano koro wa "ai" wa hageshi mono to', 'Shinjite ita kamo ne', 'Anata to watashi ga onaji basshou ni', 'Tada iru dake no shiawase', '\n', 'Tokubetsu na koto ga nani hitotsu okinai no wa', 'Otagai ni wakari-aeta shoukou na no ne', '\n', 'Anata wa matome de ashi wo tsume wo kiiteru', 'Nodaka na iru senari', 'Taikutsu na dorama wo miru you na', 'Tada sore dake no shiawase', '\n']

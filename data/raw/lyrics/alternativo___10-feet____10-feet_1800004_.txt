@@ -1,0 +1,5 @@
+Song: Goes On
+Artist: 10-FEET
+Views:  132
+Verses: 7
+['Yoru no umi wo tobi tsuduke te dare nanokamo wasure te', 'Yoru no sora wo tobi tsuduke te dare nanokamo wasure te', '\n', 'Heart dried up, tears flow.', 'Your wishes lost, just pain imprinted there on your exhausted face.', "Scars that never fade, i'll carry them with me.", "I'll figure out a way to make it work.", '\n', 'Nin ga umi noyouni ooki kunaretara nin ga nami noyouni yasashi kunaretara', '\n', 'Kono kanashi i kioku de tera seru shiawase niitsukaha ae rukana', 'Gomakashite nise tte waratte ii wake to puraido nimamirete', 'Ikura nai temo toki ha nagare te iji hatte ha oi te ika rete', 'Goes on...', '\n', 'Rocked by the moving train, to my face in the glass', '"crying\'s not gonna change a thing", i say.', '\n', '< wayaku >', 'Kokoro katsu ite namida ga wai te kao ha tsukare te yume ha kie te itami dakega nokotta', 'Kittomou kie nai kizu seotte iku koto wo kime tayo nantoka umaku yatteikuyo', '\n', 'Densha de yura rete mado no nakani utsuru jibun ni ( nai tatte nani hitotsu kawa ranaiyo ) tte', '\n']

@@ -1,0 +1,3 @@
+/components/as-caras/
+/components/as-if-we-knew-it/
+/components/o-peso-do-papel/

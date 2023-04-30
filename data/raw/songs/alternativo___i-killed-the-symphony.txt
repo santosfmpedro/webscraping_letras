@@ -1,0 +1,5 @@
+/i-killed-the-symphony/alive/
+/i-killed-the-symphony/atmosphere/
+/i-killed-the-symphony/exit-body/
+/i-killed-the-symphony/my-enemy/
+/i-killed-the-symphony/vanity/

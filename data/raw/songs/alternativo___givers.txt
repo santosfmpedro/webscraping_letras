@@ -1,0 +1,7 @@
+/givers/atlantic/
+/givers/ceiling-of-plankton/
+/givers/1901598/
+/givers/meantime/
+/givers/ripe/
+/givers/1900853/
+/givers/words/

@@ -1,0 +1,5 @@
+Song: Shoes
+Artist: 10-FEET
+Views:  163
+Verses: 8
+['I came across that scenery, it brought back those bad times.', "The days I wanted to escape and run away from crying are out there somewhere I don't wanna find.", '\n', 'I miss you. Ah ...', '\n', '(ai gakoreppocchimo naku te hakujou na (aa) kirehashi ga jitsuha hontou no boku nanda) tte', 'Me wo sama shite sabishi sani odoroi te akari mo tsuke zu nai teta', '\n', 'I came across that scenery, it brought back those bad times.', "The days I wanted to escape and run away from crying are out there somewhere I don't wanna find.", '\n', 'I miss you. Ah ...', '\n', 'Ai takutemo kanawa nu wakare niha (aa) naki saken dattemou todoka nai', 'Kokoro gasayonara ie ta toki ai wo kome te naki waratta', '\n', 'I miss you. Ah ...', '\n', '(ai gakoreppocchimo naku te hakujou na (aa) kirehashi ga jitsuha hontou no boku nanda) tte', 'Me wo sama shite sabishi sani odoroi te akari mo tsuke zu nai teta', 'Ai takutemo kanawa nu wakare niha (aa) naki saken de yon datte todoka nai', 'Kokoro gasayonara ie ta toki ai wo kome te naki waratta', 'Ai wo kome te naki waratta ai wo kome te naki waratta', '\n']

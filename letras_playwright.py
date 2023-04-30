@@ -59,11 +59,67 @@ def find_artists_from_genre(genre):
         browser.close()
 
         return(href_artists)
-    
-genres = find_genres()
 
-local_artists = 'E:/coding/github/webscraping_letras/data/raw/artists'
-local_songs = 'E:/coding/github/webscraping_letras/data/raw/songs'
+def find_songs_from_artist(artist):
+    dibra_time(1)
+    res = requests.get(f'https://www.letras.mus.br/{artist}/')
+    soup_data = BeautifulSoup(res.text, 'html.parser')
+    songs = soup_data.select("a[class='song-name']")
+    if (len(songs) == 0):
+        songs = soup_data.select("li[class='cnt-list-row -song']")
+        href_songs = []
+        for i in songs:
+            href = i.find('a').get('href')
+            href_songs.append(href)
+    else:
+        href_songs = []
+        for i in songs:
+            href = i['href']
+            href_songs.append(href)
+
+    print(f'{artist} songs found!')
+    return(href_songs)
+
+
+def find_lyric_from_song(song):
+    res = requests.get(f'https://www.letras.mus.br/{song}')
+    soup_data = BeautifulSoup(res.text, 'html.parser')
+
+    header = soup_data.select("div[class='cnt-head cnt-head--l']") 
+    all_lyric = soup_data.select("div[class='cnt-letra']") 
+
+    for th in header:
+        artist_output = th.find('span').text
+        views = th.find("b").text
+        name_song = th.find("h1").text
+        song = f'Song: {name_song}'
+        artist_output = f'Artist: {artist_output}'
+        views = f'Views: {views}'
+
+    verses = []
+
+    for i in all_lyric:
+        aux = i.find_all("p")
+        n = len(aux)
+        n_verses = f'Verses: {n}'
+
+        for j in aux:
+            verse = j.get_text(strip=True, separator= '\n').splitlines()
+            for z in verse:
+                verses.append(z)
+            verses.append('\n')
+    
+    output = [song, artist_output,views, n_verses, verses]
+
+    return(output)
+
+# artist = artists['artists'][0].replace('/','')
+# genre = genres[0].split('\\')[-1].replace('.txt','')
+
+# genres = find_genres()
+
+# local_artists = 'E:/coding/github/webscraping_letras/data/raw/artists'
+# local_songs = 'E:/coding/github/webscraping_letras/data/raw/songs'
 
 # for genre in genres:
 #     artists = find_artists_from_genre(genre)

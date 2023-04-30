@@ -1,0 +1,4 @@
+/monster-cat/take-me-to-love/
+/monster-cat/mannequins/
+/monster-cat/the-courier/
+/monster-cat/underwater/
