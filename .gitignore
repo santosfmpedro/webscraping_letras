@@ -19,6 +19,9 @@ lib64/
 parts/
 sdist/
 var/
+data/raw/lyrics/*
+data/raw/songs/*
+data/raw/artists/*
 wheels/
 pip-wheel-metadata/
 share/python-wheels/
