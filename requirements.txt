@@ -1,0 +1,6 @@
+pandas
+glob
+
+requests
+bs4
+BeautifulSoup
