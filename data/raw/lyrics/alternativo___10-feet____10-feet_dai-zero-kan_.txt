@@ -1,5 +1,5 @@
 Song: Dai Zero Kan
 Artist: 10-FEET
-Views:  58
+Views:  64
 Verses: 11
 ['Mure o sorete yume o eta', 'Sore ga saigo ni naru ki ga shita n da', 'Shishi wa suna o ichi nigiri maita', 'Sore ga saigo ni naru ki ga shita n da', '\n', 'Futashikana yume kanaeru no sa yakusoku no yoru ni', 'Kasukana kaze ni negau no sa seijaku no asa ni', 'Tōi hoshi no shōnen wa', 'Sono ude ni yakusoku no kazari', 'Mada tabiji no saichūsa genwaku no en ni', '\n', 'Kasunde kieta wadachi no saki e', 'Sore ga saigo ni naru ki ga shita n da', 'Teoi no yume o tsumuginaoseba', 'Sore ga saigo ni naru ki ga shita n da', '\n', 'Nessa o keri aragau no sa yakusoku no mae ni', 'Inochizuna wa nai no sa sa-kasu no yoru ni', 'Mada tabiji no saichūsa', 'Ano basho ni kasokusuru sarani', 'Ameagari no shanderia genwaku no en ni', '\n', 'Swish da chakka you', '\n', 'Meisō smash', 'Dribble trapper', 'Kidding me now?', '\n', 'Coyote steals the sound', 'Coyote steals the pass', 'Coyote steals the sound and pass', '\n', 'Pass code a Penetrator', 'Be-su! Bebop!', 'Getto triple! Buzz up bi-to!', '\n', 'Wan rabu and marcy!', 'Bebop! Heat check!', 'Vasco da Gama bi-to!', '\n', 'Pass code a Penetrator', 'Be-su! Bebop!', 'Wanna buzz up bi-to!', 'Just wanna buzz up bi-to!', '\n', 'Nōnai sarachi ni extra pass', "Ku-Azadon'ihabi", '\n']
